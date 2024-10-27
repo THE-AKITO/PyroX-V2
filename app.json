@@ -6,32 +6,32 @@
 "env": {
     "API_ID": {
       "description": "api id get from my.telegram.org/apps",
-      "value": "28122413",
+      "value": "29764570",
       "required": true
     },
     "API_HASH": {
       "description": "api hash get from my.telegram.org/app",
-      "value": "750432c8e1b221f91fd2c93a92710093",
+      "value": "7676192e491329a1b859b2184e5d7823",
       "required": true
     },
     "SESSION": {
       "description": "Pyrogram String Session",
-      "value": "",
+      "value": "BQC6kfsAjkEMjjfKrZOpRj06t2BV0GYYkXK_unCiZps-epRmNmftR5Ycpdqshxxhd3VsIO4fx1qEsvDk9_Xhy8kcHB5sST5B7H_EYpQ8-TnvasxDJqNw9zP9hCGwK7xlH-rFlKGnwFL2iG8YEFg8KQf2T5QQPeBri6XdHD2JBwtmAhbLtvOnTwEpWUtmgPbRfbn0QlQwbI7uAAhOoPQ6vvoSXQAgHksPYfMbGO1SOh8AwQpeXUAqcu1PbUTgUlSiURXiWA9DNdxhhxLB5J5nGUkvfqF6TLbrqqCg-zth5A47d25ZVvHl6ClhhePQHRcpZ5lmViBNpyncekfXL7-ONcDKPSExGgAAAAF5DWJxAA",
       "required": true
     },
     "TOKEN": {
        "description": "create your bot in @botfather",
-       "value": "",
+       "value": "8105141727:AAFRapaJWMZrdb11Tt7iE5wrxt9JswUfiHE",
        "required": true
     },
     "OWNER_ID": {
        "description": "Add IDs of owners",
-       "value": "5443243540",
+       "value": "6325887601",
        "required": true
     },
     "GROUP_ID": {
        "description": "Add group ID where bot must be admin and userbot must be there.",
-       "value": "-1002119409366",
+       "value": "-1002109988264",
        "required": true
     },
     "DB_NAME": {
@@ -41,7 +41,7 @@
    },
     "DB_URL": {
        "description": "Add MongoDB URI.",
-       "value": "mongodb+srv://publicDB:publicDBbyKira@public.twckcqf.mongodb.net/?retryWrites=true&w=majority",
+       "value": "",
        "required": true
     }
 }

@@ -41,7 +41,7 @@
    },
     "DB_URL": {
        "description": "Add MongoDB URI.",
-       "value": "",
+       "value": " mongodb+srv://publicDB:publicDBbyKira@public.twckcqf.mongodb.net/?retryWrites=true&w=majoritycDB:publicDBbyKira@public.twckcqf.mongodb.net/?retryWrites=true&w=majority",
        "required": true
     }
 }

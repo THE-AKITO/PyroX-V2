@@ -21,7 +21,7 @@
     },
     "TOKEN": {
        "description": "create your bot in @botfather",
-       "value": "8105141727:AAFRapaJWMZrdb11Tt7iE5wrxt9JswUfiHE",
+       "value": "7372261819:AAGCW6hsr6Bk0WamcrcvGwqu3BIENt2ILyM",
        "required": true
     },
     "OWNER_ID": {

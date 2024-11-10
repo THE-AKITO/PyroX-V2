@@ -16,7 +16,7 @@
     },
     "SESSION": {
       "description": "Pyrogram String Session",
-      "value": "BQC6kfsAjkEMjjfKrZOpRj06t2BV0GYYkXK_unCiZps-epRmNmftR5Ycpdqshxxhd3VsIO4fx1qEsvDk9_Xhy8kcHB5sST5B7H_EYpQ8-TnvasxDJqNw9zP9hCGwK7xlH-rFlKGnwFL2iG8YEFg8KQf2T5QQPeBri6XdHD2JBwtmAhbLtvOnTwEpWUtmgPbRfbn0QlQwbI7uAAhOoPQ6vvoSXQAgHksPYfMbGO1SOh8AwQpeXUAqcu1PbUTgUlSiURXiWA9DNdxhhxLB5J5nGUkvfqF6TLbrqqCg-zth5A47d25ZVvHl6ClhhePQHRcpZ5lmViBNpyncekfXL7-ONcDKPSExGgAAAAF5DWJxAA",
+      "value": "BQHGK9oAANT_eLOyTPbVDq_NwEQUfm-VX_hjAAsd0Nzx7Esw1D9Hkn56gCtCakAqS0PKBWEHr6C0Ic7xbc_0WQn5rYjZNpbtC5UUDKksMAOJBPMsGISS9u0OxUJDj5xlHMPa6brcnc8WB1vK0cMdH_qxTcGnUG3NUhJTBtw0vmFi7nAX7a3stiUcGbh_3wABft5FkrNFlqG03zQxqvC9eorONpqpJ3XOdzket9kDz1JrIVKwewjaDcRwCVUbODjFTOZsEQfb4xy6KRICHnTdxVKMn-idk46sweqf6ont5lZ2tMSkmCgVRSjpunBwusksKhXhUHgTfLfOH4WBWREuS9uTxzvq8QAAAAF5DWJxAA",
       "required": true
     },
     "TOKEN": {

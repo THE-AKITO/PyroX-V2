@@ -36,7 +36,7 @@ async def alive():
 
 <b>ᴜꜱᴇʀʙᴏᴛ</b> {user_hyperlink}
 
-<b>Source: <a href='{SOURCE}'>PyroX-V2</a></b>"""
+<b>Powered By <a href='{SOURCE}'>.</a></b>"""
 
 
     return ALIVE_TEXT, photo_url
